@@ -1,0 +1,19 @@
+{
+  "name": "webservices",
+  "version": "1.0.0",
+  "description": "Web Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "keywords": [
+    "web",
+    "creation"
+  ],
+  "author": "Gloria",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
